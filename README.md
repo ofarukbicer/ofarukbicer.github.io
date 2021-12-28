@@ -1,31 +1,18 @@
-<h1 align="center"> Merhaba Ben Ömer Faruk 👋 </h1>
+**© tüm hakları açık çalın :)**
 
-<h4 align="center" style="padding: 34px 0;"> Back-end olarak çalışıyorum ama Mobil alanına yönelmiş durumdayım, Öğrenciyim ve Yeniliklere açığım küçüklüğümden belli kod yazıyorum son 2 3 yıldır yaptığım projeler nedeni ile kendime çok fazla bilgi kattım :) </h4>
+* * *
 
-<p align="center">
-  <a href="https://github.com/ertugrulsencer/">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ofarukbicer" alt="views"/>
-  </a>
-</p>
+## ☕️ buymeacoffee
 
-<p align="center">
-  <a href="https://fribe.org">
-    <img src="https://www.fribe.org/img/fribe-logo.6d56bda4.svg" width="250" alt="fribe-logo"/>
-  </a>
-</p>
+*Bana destek olmaya ne dersin :)*
 
-⭐ Yıldızlı dillerim arasında **GoLang** ve **JavaScript** var.
+| Banka                   | IBAN                                          | Ad Soyad            |
+|:------------------------|:----------------------------------------------|:--------------------|
+| **» Papara**            | `1091163497`                                  | *Ömer Faruk Biçer* |
+| **» Garanti BBVA(TL)**  | **TR**`23 0006 2000 4170 0006 8889 08`        | *Ömer Faruk Biçer* |
+| **» Garanti BBVA(USD)** | **TR**`87 0006 2000 4170 0009 0619 14`        | *Ömer Faruk Biçer* |
+| **» İş Bankası**        | **TR**`15 0006 4000 0011 2470 6232 04`        | *Ömer Faruk Biçer* |
 
-🚀 Aktif olarak kullandığım diller ve teknolojileri:
-- JavaScript
-  - NodeJS
-    - Express
-    - Mongoose
-    - Authenticator
-- MongoDB
-- Redis
-- Dart
-  - Flutter
-- Golang
-  - Echo
+## ♻️ İletişim
 
+*Benimle iletişime geçmek isterseniz, **Telegram**'dan mesaj göndermekten çekinmeyin;* [@ofarukbicer](https://t.me/ofarukbicer)
